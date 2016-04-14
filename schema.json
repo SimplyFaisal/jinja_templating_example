@@ -1,0 +1,79 @@
+{
+    "restaurants": [
+        {
+            "name": "Satto",
+            "specialty": "Japanese sushi and Thai",
+            "address": "1234 Pretty Lane",
+            "rating": 4,
+            "text_color": "info",
+            "dishes": [
+                {
+                    "name": "Pad Thai",
+                    "description": "Noodles with shrimp, peanuts, and chicken",
+                    "image_url": ""
+                },
+
+                 {
+                    "name": "Dragon Roll",
+                    "description": "Spicy tuna with a wonderful sauce",
+                    "image_url": ""
+                },
+                 {
+                    "name": "Yellow Jacket",
+                    "description": "A local favorite that delights the senses",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "name": "Intermezzo",
+            "specialty": "Cafe and dessert parlor",
+            "address": "365 Palm Streeet",
+            "rating": 5,
+            "text_color": "primary",
+            "dishes": [
+                {
+                    "name": "Cookies and Cream Cheesecake",
+                    "description": "The best thing ever",
+                    "image_url": ""
+                },
+
+                 {
+                    "name": "Nutella Hot Chocolate",
+                    "description": "Nutella coated cup with hot chocolate",
+                    "image_url": ""
+                },
+                 {
+                    "name": "Chocolate Pecan Pie",
+                    "description": "Pecan pie coated in a delightful layer of dark chocolate",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "name": "Mi Cocina",
+            "specialty": "Traditional mexican food with a modern take",
+            "address": "411 Jefferson Avenue",
+            "rating": 3,
+            "text_color": "success",
+            "dishes": [
+                {
+                    "name": "Killer Nachos",
+                    "description": "Super spicy nachoes coated in awesome cheese",
+                    "image_url": ""
+                },
+
+                 {
+                    "name": "Fish Tacos",
+                    "description": "Seared tuna and grouper",
+                    "image_url": ""
+                },
+                 {
+                    "name": "Mega Burrito",
+                    "description": "A burrito the size of your head.",
+                    "image_url": ""
+                }
+            ]
+        }
+    ]
+}
